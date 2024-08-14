@@ -18,6 +18,6 @@ Every level has a different credential, in every level the user selects the leve
 
 Which commands are used to fix the problem, as well as an explanation on how to use them in that scenario
 
-### 4. putting it all together
+### 4. Putting it all together
 
 Finally solving the scenario and getting the credentials towards the next one.

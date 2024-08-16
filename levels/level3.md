@@ -6,7 +6,7 @@ The password for the next level is stored in a file called *spaces in this filen
 
 ## 2. Logging into the terminal
 
-`ssh bandit1@bandit.labs.overthewire.org -p 2220`
+`ssh bandit2@bandit.labs.overthewire.org -p 2220`
 password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 ## 3. Overview

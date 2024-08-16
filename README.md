@@ -14,7 +14,7 @@ The problem proposed by the overthewire team.
 
 Every level has a different credential, in every level the user selects the level he wants to log into using for example the user bandit0 (level 0), bandit1(level 1), etc.
 
-## 3. Overview
+### 3. Overview
 
 A general overview of how to proceed in with the problem, a list of the files or perhaps a general idea of how the thought process used to solve the problem.
 

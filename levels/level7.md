@@ -29,6 +29,9 @@ Ok, how do we get rid of that then? With `2> /dev/null` appended at the end of t
 
 With the command `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null` we get the file "/var/lib/dpkg/info/bandit7.password", now we only have to read it.
 
+For more information on the subject of stdout redirection check this wesite:
+[What does 2>/dev/null mean?](https://askubuntu.com/questions/350208/what-does-2-dev-null-mean)
+
 ## 5. Putting it all together
 
 `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null | xargs cat`

@@ -34,4 +34,4 @@ Essentially we can filter the output with an input.
 
 `grep millionth data.txt`
 output: millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
-Therefore, Wpassword: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+Therefore, password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

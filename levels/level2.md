@@ -7,11 +7,13 @@ The password for the next level is stored in a file called - located in the home
 ## 2. Logging into the terminal
 
 connection: `ssh bandit1@bandit.labs.overthewire.org -p 2220`
+
 password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## 3. Overview
 
 On this level we need to read from a file called "-"; If you try to read it the same way we did in the last level you won't be able to as `cat -` won't read it.
+
 Instead we need to be a bit more specific with the command's destination. What is needed is to tell the shell to specifically look into the home directory (which we log in as a default) and then look for the file "-".
 
 ## 4. The command
@@ -27,4 +29,5 @@ Both options work, however the first is only viable if the file is located in th
 ## 5. Putting it all together
 
 `cat ./-`
+
 password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx

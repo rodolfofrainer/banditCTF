@@ -7,6 +7,7 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 ## 2. Logging into the terminal
 
 `ssh bandit12@bandit.labs.overthewire.org -p 2220`
+
 password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
 ## 3. Overview
@@ -44,4 +45,5 @@ Giving us the final file, data2
 ## 5. Putting it all together
 
 `cat data2`
+
 password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

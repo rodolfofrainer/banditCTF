@@ -7,6 +7,7 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 ## 2. Logging into the terminal
 
 `ssh bandit13@bandit.labs.overthewire.org -p 2220`
+
 password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
 ## 3. Overview
@@ -20,4 +21,5 @@ Using `ssh -i` which allow us to use a key file to login, rather than credential
 ## 5. Putting it all together
 
 `ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private`
+
 password: N/A

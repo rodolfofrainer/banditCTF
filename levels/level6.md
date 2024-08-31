@@ -11,6 +11,7 @@ The password for the next level is stored in a file somewhere under the inhere d
 ## 2. Logging into the terminal
 
 `ssh bandit5@bandit.labs.overthewire.org -p 2220`
+
 password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 ## 3. Overview
@@ -28,6 +29,7 @@ This is getting a bit more complicated now, we need to filter the result as much
 
 The documentation is as follows: "find - search for files in a directory hierarchy"
 To filter it more we need to check the properties provided. One of the flags we can use is: -size.
+
 The documentation to that tells us that we need to provide more information to it:
 
 "-size n[cwbkMG]
@@ -53,4 +55,5 @@ So, we're in the directory "inhere", we need to find a file with 1033 bytes, giv
 ## 5. Putting it all together
 
 `find -size 1033c | xargs cat`
+
 password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG

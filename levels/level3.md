@@ -22,14 +22,17 @@ For this reason we need to need to be able to tell the terminal to use a combina
 There are 2 ways to go about it:
 
 The first method is to instruct the terminal that the next " " character should be disregarded.
+
 1. `cat spaces\ in\ this\ filename`
 The function of the "\" character is essentially a set of instructions that the next character has special properties. In this case, it should be disregarded.
 
 The second method we instruct the shell to consider everything inside the quotes as on block
+
 2. `cat "spaces in this filename"`
 This tells the shell that "spaces in this filename" should be treated as a block of text rather than several sets of instructions
 
 ## 5. Putting it all together
 
 `cat "spaces in this filename"`
+
 password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

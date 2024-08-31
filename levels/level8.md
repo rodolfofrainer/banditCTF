@@ -7,6 +7,7 @@ The password for the next level is stored in the file data.txt next to the word 
 ## 2. Logging into the terminal
 
 `ssh bandit7@bandit.labs.overthewire.org -p 2220`
+
 password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## 3. Overview
@@ -33,5 +34,7 @@ Essentially we can filter the output with an input.
 ## 5. Putting it all together
 
 `grep millionth data.txt`
+
 output: millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
-Therefore, password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

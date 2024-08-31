@@ -7,6 +7,7 @@ The password for the next level is stored in a hidden file in the inhere directo
 ## 2. Logging into the terminal
 
 `ssh bandit3@bandit.labs.overthewire.org -p 2220`
+
 password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## 3. Overview
@@ -33,6 +34,7 @@ Ok, we're in the ~/inhere, and we can't see what's inside the directory since it
 
 Looking into the "man" of "ls", which is sort of a "how to use the following command", that goes like this `man ls`, we see that the very first option of the command is `-a, --all
               do not ignore entries starting with`.
+
 That means that we can use the following command `man ls -a` to see all files in the directory; And it shows that there's a file called "...Hiding-From-You" inside.
 
 With that knowledge we can simply call `cat ...Hiding-From-You`
@@ -40,4 +42,5 @@ With that knowledge we can simply call `cat ...Hiding-From-You`
 ## 5. Putting it all together
 
 commands: `cd inhere && ls -a` `cat ...Hiding-From-You` OR `ls -a inhere` `cat inhere/...Hiding-From-You`
+
 password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

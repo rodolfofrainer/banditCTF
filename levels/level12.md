@@ -7,6 +7,7 @@ The password for the next level is stored in the file data.txt, where all lowerc
 ## 2. Logging into the terminal
 
 `ssh bandit11@bandit.labs.overthewire.org -p 2220`
+
 password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## 3. Overview
@@ -20,4 +21,5 @@ password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 ## 5. Putting it all together
 
 `cat data.txt | tr '[a-zA-Z]' '[n-za-mN-ZA-M]'`
+
 password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4

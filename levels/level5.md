@@ -7,6 +7,7 @@ The password for the next level is stored in the only human-readable file in the
 ## 2. Logging into the terminal
 
 `ssh bandit4@bandit.labs.overthewire.org -p 2220`
+
 password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 ## 3. Overview
@@ -29,4 +30,5 @@ T�՜F�ǭ��QĹ�M���p4�-�8��=��!#g���4oQYVPkxZOO
                    ы�Ϣ��
 
 Therefore we can assume that the password is the only human-readable part
+
 password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

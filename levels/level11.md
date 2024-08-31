@@ -7,6 +7,7 @@ The password for the next level is stored in the file data.txt, which contains b
 ## 2. Logging into the terminal
 
 `ssh bandit10@bandit.labs.overthewire.org -p 2220`
+
 password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ## 3. Overview
@@ -20,4 +21,5 @@ Using the flag `-d` for degrag on the command `base64` should give us the proper
 ## 5. Putting it all together
 
 `base64 -d data.txt`
+
 password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

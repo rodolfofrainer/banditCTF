@@ -1,4 +1,4 @@
-# Level n#
+# Level 17
 
 ## 1. The problem
 
@@ -26,3 +26,5 @@ output: `answer key`
 we should go to the next level from this terminal, unless we want to create a file in our own machine (or copy and paste).
 
 `echo "kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx" | ncat --ssl localhost 31790 | ssh bandit17@bandit.labs.overthewire.org -p 2220`
+
+***The overthewire team seems to not allow one to connect ssh on top ssh anymore, altough I'm pretty sure i was able to do this before. So copy the result rather than trying to pass it to the next level***

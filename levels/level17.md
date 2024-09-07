@@ -27,4 +27,6 @@ we should go to the next level from this terminal, unless we want to create a fi
 
 `echo "kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx" | ncat --ssl localhost 31790 | ssh bandit17@bandit.labs.overthewire.org -p 2220`
 
-***The overthewire team seems to not allow one to connect ssh on top ssh anymore, altough I'm pretty sure i was able to do this before. So copy the result rather than trying to pass it to the next level***
+***The overthewire team seems to not allow one to connect ssh on top ssh anymore, altough I'm pretty sure i was able to do this before. So copy or save the result rather than trying to pass it to the next level***
+
+***PS- If you're saving the key as a file it should have access restrictions or it WILL NOT be accepted. Make sure the permissions are set to 0700***

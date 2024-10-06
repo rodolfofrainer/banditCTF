@@ -21,5 +21,3 @@ Using `ssh -i` which allow us to use a key file to login, rather than credential
 ## 5. Putting it all together
 
 `ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private`
-
-password: N/A

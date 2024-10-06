@@ -45,5 +45,3 @@ Giving us the final file, data2
 ## 5. Putting it all together
 
 `cat data2`
-
-password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

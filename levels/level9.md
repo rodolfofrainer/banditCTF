@@ -30,5 +30,3 @@ And to use them all together, at the same time we use `|` which allow us to get 
 ## 5. Putting it all together
 
 `sort data.txt | uniq -u`
-
-password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

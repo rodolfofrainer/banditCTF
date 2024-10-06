@@ -42,5 +42,3 @@ With that knowledge we can simply call `cat ...Hiding-From-You`
 ## 5. Putting it all together
 
 commands: `cd inhere && ls -a` `cat ...Hiding-From-You` OR `ls -a inhere` `cat inhere/...Hiding-From-You`
-
-password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

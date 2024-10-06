@@ -21,5 +21,3 @@ password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 ## 5. Putting it all together
 
 `cat data.txt | tr '[a-zA-Z]' '[n-za-mN-ZA-M]'`
-
-password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4

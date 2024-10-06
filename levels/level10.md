@@ -28,7 +28,3 @@ Now using the `grep` command we should look for "=".
 ## 5. Putting it all together
 
 `strings data.txt | grep ==`
-
-the output is: "\a!;========== the \a========== passwordf\a========== isc\a========== FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey"
-
-password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

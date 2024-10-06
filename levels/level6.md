@@ -55,5 +55,3 @@ So, we're in the directory "inhere", we need to find a file with 1033 bytes, giv
 ## 5. Putting it all together
 
 `find -size 1033c | xargs cat`
-
-password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG

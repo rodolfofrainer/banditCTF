@@ -29,5 +29,3 @@ Both options work, however the first is only viable if the file is located in th
 ## 5. Putting it all together
 
 `cat ./-`
-
-password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx

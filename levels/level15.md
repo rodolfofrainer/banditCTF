@@ -21,5 +21,3 @@ Using `nc` we can submit and listen to localhost:30000
 ## 5. Putting it all together
 
 `cat /etc/bandit_pass/bandit14 | nc localhost 30000`
-
-password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo

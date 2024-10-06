@@ -23,6 +23,7 @@ Using trial and error we discover that 31790 is correct when we use it together 
 output: `answer key`
 
 ## 5. Putting it all together
+
 we should go to the next level from this terminal, unless we want to create a file in our own machine (or copy and paste).
 
 `echo "kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx" | ncat --ssl localhost 31790 | ssh bandit17@bandit.labs.overthewire.org -p 2220`

@@ -39,5 +39,3 @@ For more information on the subject of stdout redirection check this wesite:
 ## 5. Putting it all together
 
 `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null | xargs cat`
-
-password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

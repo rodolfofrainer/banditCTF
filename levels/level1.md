@@ -30,5 +30,3 @@ The 'cat' command in linux is used to "concatenate files and print on the standa
 ## 5. Putting it all together
 
 `cat readme`
-
-Password for the next level: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If

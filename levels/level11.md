@@ -21,5 +21,3 @@ Using the flag `-d` for degrag on the command `base64` should give us the proper
 ## 5. Putting it all together
 
 `base64 -d data.txt`
-
-password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

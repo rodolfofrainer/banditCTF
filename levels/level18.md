@@ -21,4 +21,3 @@ Need to check what changed between one version and the next.
 ## 5. Putting it all together
 
 `diff passwords.old passwords.new`
-password: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO

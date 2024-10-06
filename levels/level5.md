@@ -30,5 +30,3 @@ T�՜F�ǭ��QĹ�M���p4�-�8��=��!#g���4oQYVPkxZOO
                    ы�Ϣ��
 
 Therefore we can assume that the password is the only human-readable part
-
-password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

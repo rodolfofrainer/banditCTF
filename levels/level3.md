@@ -25,7 +25,6 @@ The first method is to instruct the terminal that the next " " character should 
 
 1. `cat spaces\ in\ this\ filename`
 The function of the "\" character is essentially a set of instructions that the next character has special properties. In this case, it should be disregarded.
-
 The second method we instruct the shell to consider everything inside the quotes as on block
 
 2. `cat "spaces in this filename"`
@@ -34,5 +33,3 @@ This tells the shell that "spaces in this filename" should be treated as a block
 ## 5. Putting it all together
 
 `cat "spaces in this filename"`
-
-password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

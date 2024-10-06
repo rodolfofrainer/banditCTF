@@ -28,7 +28,3 @@ According to the manual
 
 `ncat localhost 30001 --ssl`
 input: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
-output: "Correct!
-kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx"
-
-password: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx

@@ -25,3 +25,4 @@ In tmux: `cat /etc/bandit_pass/bandit20 | nc localhost 1234 -l` (1234 is the por
 Using Ctrl + b + d we go back into the orginal session (we can use `tmux a` to go back to the "virtual" session)
 Now we only need the binary to send a packet into the port we are listening to.
 `./suconnect 1234`
+now we need to go back to the virtual session with `tmux a` where the next password will be.
